@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HumdrumCore0.1.1/HumdrumCore0.1.1.iml" filepath="$PROJECT_DIR$/HumdrumCore0.1.1/HumdrumCore0.1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KernCore0.1.1/KernCore0.1.1.iml" filepath="$PROJECT_DIR$/KernCore0.1.1/KernCore0.1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/census0.1/census0.1.iml" filepath="$PROJECT_DIR$/census0.1/census0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proof0.1.1/proof0.1.1.iml" filepath="$PROJECT_DIR$/proof0.1.1/proof0.1.1.iml" />
+    </modules>
+  </component>
+</project>
+

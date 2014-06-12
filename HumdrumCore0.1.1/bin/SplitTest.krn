@@ -1,0 +1,7 @@
+!! test split spine
+**kern
+*k[b-]
+*^
+!! should throw warning in second spine
+b-	b
+*-	*-

@@ -1,0 +1,9 @@
+!! Test for seeing if the system detects barlines in the same line as notes
+!! by Daniel McEnnis
+**kern	**kern
+8a	8a
+=	8a
+!! should throw error here
+8a	.
+==	==
+*-	*-

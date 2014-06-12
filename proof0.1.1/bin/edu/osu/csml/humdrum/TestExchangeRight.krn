@@ -1,0 +1,9 @@
+!! Test Exchange feature
+**kern	**kern
+*k[b-]	*k[f#]
+!! should be okay
+4b-	4f#
+*x	*x
+!! should throw warning
+4f#	4b
+*-	*-

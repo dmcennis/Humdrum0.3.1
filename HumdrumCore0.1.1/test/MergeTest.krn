@@ -1,0 +1,8 @@
+!! test join entry
+**kern	**kern
+*k[b-]	*k[b-]
+4a	4b-
+4c	4d
+*v	*v
+4e
+*-

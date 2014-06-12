@@ -1,0 +1,8 @@
+!! New spine test
+**kern
+*k[b-]
+b-
+*+
+!! should not throw warning
+b-	b
+*-	*-

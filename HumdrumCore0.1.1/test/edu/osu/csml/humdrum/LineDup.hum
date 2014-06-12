@@ -1,0 +1,8 @@
+!! Testing whether duplicated lines are caught
+!!
+!! by Daniel McEnnis Feb 28, 2004
+**non	**hap
+dupli	dupli
+dupli	dupli
+!! proof should give warning about line 6	
+*-	*-

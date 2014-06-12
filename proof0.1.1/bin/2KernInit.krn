@@ -1,0 +1,6 @@
+!! Test initializing 2 kern spines at once.
+**kern	**kern
+4a	4b
+4c	4d
+*-	*
+*-

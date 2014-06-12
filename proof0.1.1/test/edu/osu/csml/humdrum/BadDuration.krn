@@ -1,0 +1,8 @@
+!! Test for bad durations accross spines
+!!
+!! By Daniel McEnnis March 1, 2004
+**kern	**kern
+4a	4a
+8a	4a
+4a	8a
+*-	*-

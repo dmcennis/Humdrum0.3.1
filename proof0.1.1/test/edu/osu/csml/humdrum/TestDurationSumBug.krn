@@ -1,0 +1,7 @@
+!! Test for bug - Duration sum not aggregating properly
+!!
+**kern	**kern
+4a	4b
+8a	4b
+8b	.
+*-	*-

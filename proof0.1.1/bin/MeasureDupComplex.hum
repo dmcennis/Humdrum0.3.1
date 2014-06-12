@@ -1,0 +1,15 @@
+!! Test DupMeasureCheck can handle inconsistant barlines
+!! by Daniel McEnnis Feb 28, 2004
+**kern	**kern
+*M2/4	*M2/4
+=	=
+4a	4b
+4b	4c
+=	=
+4a	4b
+4b	4c
+=	=
+4c	4d
+4e	4f
+=	=
+*-	*-

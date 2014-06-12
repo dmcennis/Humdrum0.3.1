@@ -1,0 +1,6 @@
+!! test overlap between two spines for most concurrent notes
+**kern	**kern
+2c	4a
+.	4b 4d
+2d	2g
+*-	*-

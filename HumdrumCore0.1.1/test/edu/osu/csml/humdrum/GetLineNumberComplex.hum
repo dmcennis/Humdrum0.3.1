@@ -1,0 +1,63 @@
+!! 1/Header Interpretation
+!! 2/Open and close spine
+!! 4/body comment
+!! 8/header comment
+!!16/body interpretation
+!!32/body data
+!! total of 63 lines
+!!
+*nothing
+**gen	**gen
+!te	!test a
+!Te	!test b
+!te	!test c
+!te	!test d
+*a	*
+*	*a
+*	*
+*	*
+*	*
+*	*
+*	*
+*	*
+*	*
+*	*
+*	*
+*	*
+*	*
+*	*
+*	*
+*	*
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+g	g
+*-	*-
